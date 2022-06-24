@@ -120,6 +120,34 @@
       "filterable": 1,
       "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
     },
+     {
+     "key":"csp_Blixs",
+     "name":"👫相声小品",
+     "type":3,
+     "api":"csp_Blixs",
+     "searchable":1,
+     "quickSearch":0,
+     "filterable":1
+    },
+    {
+      "key": "php_kmkgct",
+      "name": "😈开麦搜歌",
+      "type": 1,
+      "api": "http://jb001.eu5.org/tmp/t/u/kmkgct.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }, 
+     {
+     "key":"push_agent",
+     "name":"合并推送",
+     "type":3,
+     "api":"csp_PushAgent",
+     "searchable":0,
+     "quickSearch":0,
+     "filterable":0,
+     "ext":""
+    }, 
     {"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
     
     
@@ -535,5 +563,6 @@
   ],
   "wallpaper":"https://i.ibb.co/QnNYsQF/image.jpg",
 //"spider": "https://raw.githubusercontent.com/jkn2008/mzy/main/m0601_sj_pg.jar"，
-"spider":"https://raw.githubusercontent.com/jkn2008/mzy/main/0608.jar"
+//"spider":"https://raw.githubusercontent.com/jkn2008/mzy/main/0608.jar",
+"spider":"https://gitea.com/jkn2008/mzy/raw/branch/main/0618.jar"
 }
